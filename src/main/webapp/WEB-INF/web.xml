@@ -9,8 +9,8 @@
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
 		<param-value>
-				 classpath:hopeWeb-SpringSecurity.xml
-                 classpath:hopeWeb-SpringContext.xml
+				 classpath:whopoo-serv-SpringSecurity.xml
+                 classpath:whopoo-serv-SpringContext.xml
         </param-value>
 	</context-param>
 	
