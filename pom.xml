@@ -92,10 +92,9 @@
 			</plugin>
 			<!-- Maven Tomcat Plugin -->
 			<plugin>
-				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>tomcat-maven-plugin</artifactId>
+				<groupId>org.apache.tomcat.maven</groupId>
+        <artifactId>tomcat7-maven-plugin</artifactId>
 				<configuration>
-					<url>http://127.0.0.1:8080/manager/text</url>
 					<server>localTomcatServer</server>
 					<path>/whopoo</path>
 				</configuration>
