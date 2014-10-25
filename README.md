@@ -1,4 +1,4 @@
 whopoo-serv
 ===========
 
-who-poo backend
+whopoo backend
